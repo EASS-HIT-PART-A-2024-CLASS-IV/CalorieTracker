@@ -1,6 +1,6 @@
-# Meal Management App
+# Calorie Tracker
 
-Welcome to the Meal Management App GitHub repository! This project provides a user-friendly interface for managing your daily meals and tracking their calorie intake. Below you will find detailed instructions on how to set up and run the application, as well as an overview of its components and technologies used.
+Welcome to the Calorie Tracker GitHub repository! This project provides a user-friendly interface for managing your daily meals and tracking their calorie intake. Below you will find detailed instructions on how to set up and run the application, as well as an overview of its components and technologies used.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to the Meal Management App GitHub repository! This project provides a us
 
 ## Introduction
 
-The Meal Management App is designed to help users keep track of their daily meals, including their names, calorie values, and dates. It consists of a frontend interface built with Streamlit and a backend API developed with FastAPI. Redis is used as the database for storing meal information.
+The Calorie Tracker is designed to help users keep track of their daily meals, including their names, calorie values, and dates. It consists of a frontend interface built with Streamlit and a backend API developed with FastAPI. Redis is used as the database for storing meal information.
 
 ## Features
 
@@ -23,18 +23,18 @@ The Meal Management App is designed to help users keep track of their daily meal
 
 ## Installation
 
-To run the Meal Management App locally, you need to have Docker installed on your system. Follow these steps to set up the application:
+To run the Calorie Tracker locally, you need to have Docker installed on your system. Follow these steps to set up the application:
 
 1. **Clone this GitHub repository to your local machine:**
 
     ```
-    git clone gh repo clone EASS-HIT-PART-A-2024-CLASS-IV/CalorieTracker
+    git clone <repository_url>
     ```
 
 2. **Navigate to the root directory of the project:**
 
     ```
-    cd meal-management-app
+    cd calorie-tracker
     ```
 
 3. **Run the following command to build and start the Docker containers:**
@@ -59,7 +59,7 @@ After launching the application, you will be presented with a user-friendly inte
 
 ## Technologies Used
 
-The Meal Management App utilizes the following technologies:
+The Calorie Tracker utilizes the following technologies:
 
 - **Frontend**:
   - Streamlit: A Python library for building interactive web applications.
