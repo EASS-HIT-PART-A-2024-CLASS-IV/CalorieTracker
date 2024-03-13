@@ -7,7 +7,7 @@ from datetime import datetime
 FASTAPI_BASE_URL = "http://backend:8000"
 
 def main():
-    st.title("Meal Management App")
+    st.title("Calorie Tracker App")
 
     st.sidebar.header("Navigation")
     page = st.sidebar.radio("Select a page", ["Home", "Create Meal", "Delete Meals", "Update Meals"])
