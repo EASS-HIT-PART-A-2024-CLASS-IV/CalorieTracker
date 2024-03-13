@@ -72,3 +72,5 @@ The Calorie Tracker utilizes the following technologies:
 
 - **Infrastructure**:
   - Docker: A platform for developing, shipping, and running applications in containers.
+
+Video: https://youtu.be/578IhlKqKZg
