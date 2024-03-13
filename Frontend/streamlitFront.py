@@ -64,7 +64,7 @@ def display_create_meal():
         response = requests.post(f"{FASTAPI_BASE_URL}/meals", json=payload)
 
         if 'meal_id' in response.json():
-            st.success(f"Meal created successfully on {datetime.now().strftime('%d/%m/%Y')}!")
+            st.success("Meal created successfully!")
         else:
             st.error("Failed to create meal. Check the response for details.")
 
