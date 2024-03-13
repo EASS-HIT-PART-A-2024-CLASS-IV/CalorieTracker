@@ -28,7 +28,7 @@ To run the Meal Management App locally, you need to have Docker installed on you
 1. **Clone this GitHub repository to your local machine:**
 
     ```
-    git clone <repository_url>
+    git clone gh repo clone EASS-HIT-PART-A-2024-CLASS-IV/CalorieTracker
     ```
 
 2. **Navigate to the root directory of the project:**
