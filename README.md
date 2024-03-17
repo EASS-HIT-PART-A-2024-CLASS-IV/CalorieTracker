@@ -28,7 +28,7 @@ To run the Calorie Tracker locally, you need to have Docker installed on your sy
 1. **Clone this GitHub repository to your local machine:**
 
     ```
-    git clone gh repo clone EASS-HIT-PART-A-2024-CLASS-IV/CalorieTracker
+    git clone https://github.com/EASS-HIT-PART-A-2024-CLASS-IV/CalorieTracker.git
     ```
 
 2. **Navigate to the root directory of the project:**
